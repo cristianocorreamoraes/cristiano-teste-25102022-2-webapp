@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'TESTE DEPLOY AZURE - SENAI' });
+  res.render('index', { title: '---- #### TESTE DEPLOY AZURE - SENAI #### ----' });
 });
 
 module.exports = router;

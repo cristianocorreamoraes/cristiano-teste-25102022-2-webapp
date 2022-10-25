@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/ba2673e8-b792-45fd-a0ea-5773469ea087/AppServices/subscriptions/ba2673e8-b792-45fd-a0ea-5773469ea087/resourceGroups/cristiano-teste-25102022-2-grupo/providers/Microsoft.Web/sites/cristiano-teste-25102022-2-webapp",
+    "appService.deploySubpath": "."
+}
